@@ -1,0 +1,12 @@
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\bin\Debug\net6.0\BookDomin.deps.json
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\bin\Debug\net6.0\BookDomin.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\bin\Debug\net6.0\BookDomin.pdb
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.csproj.AssemblyReference.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.AssemblyInfoInputs.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.AssemblyInfo.cs
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.csproj.CoreCompileInputs.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\refint\BookDomin.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\BookDomin.pdb
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookDomin\obj\Debug\net6.0\ref\BookDomin.dll
