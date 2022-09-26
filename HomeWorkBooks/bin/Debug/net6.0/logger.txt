@@ -1,0 +1,8 @@
+The user admin1 login for system 
+admin1 Press : 4
+
+admin1 Edit the book : 1
+Old name :Power C#
+ Old Price :110
+new name the book :Super Hero C#
+ new Price :99
