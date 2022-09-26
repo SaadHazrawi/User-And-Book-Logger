@@ -1,0 +1,17 @@
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\bin\Debug\net6.0\BookAccessDataBase.deps.json
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\bin\Debug\net6.0\BookAccessDataBase.runtimeconfig.json
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\bin\Debug\net6.0\BookAccessDataBase.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\bin\Debug\net6.0\BookAccessDataBase.pdb
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\bin\Debug\net6.0\BookDomin.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\bin\Debug\net6.0\BookDomin.pdb
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.csproj.AssemblyReference.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.AssemblyInfoInputs.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.AssemblyInfo.cs
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.csproj.CoreCompileInputs.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.csproj.CopyComplete
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\refint\BookAccessDataBase.dll
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.pdb
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\BookAccessDataBase.genruntimeconfig.cache
+C:\Users\ALWAFER\source\repos\HomeWorkBooks\BookAccessDataBase\obj\Debug\net6.0\ref\BookAccessDataBase.dll
